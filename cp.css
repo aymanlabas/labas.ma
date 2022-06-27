@@ -1,0 +1,90 @@
+h1 {
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Bungee Shade', cursive;
+font-family: 'Comfortaa', cursive;
+font-family: 'Monoton', cursive;
+font-family: 'Potta One', cursive;
+    margin-left: 20px;
+    font-size: 70PX;
+    color: white;
+}
+
+h1 {
+    font-family: 'Orbitron', sans-serif;
+        font-size: 45PX;
+     margin-left: 20px;
+
+    color: white;
+}
+#S {
+  font-family: 'Orbitron', sans-serif;  
+   margin-left: 30px;
+   font-size: 20PX;
+
+  color: white; 
+}
+#AS {
+  font-family: 'Monoton', cursive;
+  color: rgb(38, 255, 0);
+  animation-name: example;
+  animation-duration: 30s;
+}
+
+
+#www {
+   
+  
+  animation-name: E;
+  animation-duration: 35s;
+  background-color: black;
+}
+
+
+  
+ 
+#SX{
+  font-family: 'Monoton', cursive;
+  font-size: medium;
+
+}
+@keyframes example {
+  0%   {color: rgb(106, 0, 255);}
+  10%  {color: rgb(255, 115, 0);}
+  20%  {color: blue;}
+  30% {color: green;}
+  40%   {color: red;}
+  50%  {color: rgb(247, 0, 255);}
+  60%  {color: blue;}
+  70% {color: green;}
+  80%   {color: red;}
+  90%  {color: rgb(0, 0, 0);}
+  99%  {color: blue;}
+  100% {color: green;}
+
+}
+@keyframes E {
+  0%   {color: rgb(106, 0, 255);}
+  10%  {color: rgb(255, 115, 0);}
+  20%  {color: blue;}
+  30% {color: green;}
+  40%   {color: red;}
+  50%  {color: rgb(247, 0, 255);}
+  60%  {color: blue;}
+  70% {color: green;}
+  80%   {color: red;}
+  90%  {color: rgb(0, 0, 0);}
+  99%  {color: blue;}
+  100% {color: green;}
+
+}
+#txt1{
+    border: 2px solid white;
+    border-radius: 10PX;
+    width: 55%;
+
+}
+li{
+  font-family: 'Orbitron', sans-serif;  
+
+}
+
